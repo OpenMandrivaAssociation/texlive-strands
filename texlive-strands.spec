@@ -1,6 +1,6 @@
 Name:		texlive-strands
 Version:	59906
-Release:	1
+Release:	2
 Summary:	Draw objects constructed from strands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/strands
