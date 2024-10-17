@@ -3,7 +3,7 @@ Version:	59906
 Release:	2
 Summary:	Draw objects constructed from strands
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/strands
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/strands
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/strands.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/strands.doc.r%{version}.tar.xz
